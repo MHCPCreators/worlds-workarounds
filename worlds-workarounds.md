@@ -150,7 +150,7 @@ Tested in v218
 ## **Unable to Edit Scripts in Desktop Editor**  
   Scripts can’t be edited inside the Desktop Editor  
   <BR>
-  **Steps**:	Close and reopen the Desktop Editor  
+  **Steps**:	Shut down the server and relaunch the world
   <BR>
   **Keywords**: Desktop Editor, TypeScript  
   Tested in v214  
@@ -160,7 +160,7 @@ Tested in v218
 ## **Spatial UI Not Updating with Changes**  
   Spatial UIs are not updating after making and saving changes to the script in the code editor  
   <BR>
-  **Steps**:	Close and reopen the Desktop Editor  
+  **Steps**:	Shut down the server and relaunch the world
   <BR>
   **Keywords**: Desktop Editor, TypeScript, Custom UI  
   Tested in v214  
@@ -225,7 +225,7 @@ Tested in v218
 ## **GenAI Gets Stuck at Random Percents**  
   GenAI generation randomly getting stuck without finishing  
   <BR>
-  **Steps**: Close and relaunch Desktop Editor  
+  **Steps**: Shut down the server and relaunch the world 
   <BR>
   **Keywords**: Desktop Editor, GenAI Toolset  
   Tested in v214  
